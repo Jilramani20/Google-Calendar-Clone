@@ -1,0 +1,9 @@
+## Key Features:
+
+- **Create Events**: Click the "+ Create" button or click on any date
+- **Edit Events**: Click on any existing event to modify it
+- **Navigation**: Use the arrow buttons to navigate months or click "Today"
+- **Event Colors**: Choose from 7 different colors for your events
+- **Responsive**: Works on desktop and mobile devices
+
+The application stores events in memory, so they'll persist during your session but will be reset when you refresh the page. This is a fully functional calendar clone that matches Google Calendar's core functionality and design aesthetics.
